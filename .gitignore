@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
